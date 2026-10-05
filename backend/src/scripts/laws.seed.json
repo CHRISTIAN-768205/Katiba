@@ -1,0 +1,65 @@
+[
+  {
+    "lawSource": "Penal Code (Cap 63)",
+    "chapterNumber": 25,
+    "chapterTitle": "Offences Against the Person - Assaults",
+    "articleNumber": 250,
+    "articleTitle": "Common assault",
+    "text": "Any person who unlawfully assaults another is guilty of a misdemeanour and, if the assault does not amount to an assault occasioning actual bodily harm, is liable to imprisonment for one year, or to a fine not exceeding five thousand shillings, or to both.",
+    "tags": ["assault", "criminal law", "penal code"]
+  },
+  {
+    "lawSource": "Penal Code (Cap 63)",
+    "chapterNumber": 25,
+    "chapterTitle": "Offences Against the Person - Assaults",
+    "articleNumber": 251,
+    "articleTitle": "Assault causing actual bodily harm",
+    "text": "Any person who commits an assault occasioning actual bodily harm is guilty of a misdemeanour and is liable to imprisonment for five years. Actual bodily harm includes any hurt or injury calculated to interfere with the health or comfort of the victim - such hurt or injury need not be permanent, but must be more than merely transient or trifling (bruises, cuts, and swelling from a beating typically qualify).",
+    "tags": ["assault", "criminal law", "penal code", "bodily harm"]
+  },
+  {
+    "lawSource": "Penal Code (Cap 63)",
+    "chapterNumber": 25,
+    "chapterTitle": "Offences Against the Person - Assaults",
+    "articleNumber": 234,
+    "articleTitle": "Grievous harm",
+    "text": "Grievous harm means any harm which amounts to a maim (permanent loss of use of a body part) or dangerous harm, or which seriously or permanently injures health, or which is likely to injure health, or which extends to permanent disfigurement, or to any permanent or serious injury to any external or internal organ, membrane or sense. Causing grievous harm unlawfully is a serious offence carrying a much heavier penalty than common assault or actual bodily harm.",
+    "tags": ["assault", "criminal law", "penal code", "grievous harm"]
+  },
+  {
+    "lawSource": "Victim Protection Act No. 17 of 2014",
+    "chapterNumber": 3,
+    "chapterTitle": "Part III - Rights, Responsibilities and Protection of Victims",
+    "articleNumber": 6,
+    "articleTitle": "Preliminary assessment of victims",
+    "text": "Any person charged with the duty of assisting victims (such as the police) shall undertake a preliminary assessment of every victim and file a report on the victim within twenty-four hours of the report of the offence. This report must record the details of the case, including the alleged offender and any action the victim already took before reporting.",
+    "tags": ["victim rights", "reporting a crime", "police"]
+  },
+  {
+    "lawSource": "Victim Protection Act No. 17 of 2014",
+    "chapterNumber": 3,
+    "chapterTitle": "Part III - Rights, Responsibilities and Protection of Victims",
+    "articleNumber": 11,
+    "articleTitle": "Security of the victim",
+    "text": "Any person dealing with a victim shall ensure that the victim is immediately secured from further harm before any other action is taken. This includes: placing the victim in a place of safety if they are vulnerable; securing food and shelter until their safety is guaranteed; securing urgent medical treatment; securing immediate psychosocial support; securing police protection where appropriate; and placing the victim with a relative where appropriate.",
+    "tags": ["victim rights", "safety", "medical treatment", "police protection"]
+  },
+  {
+    "lawSource": "Victim Protection Act No. 17 of 2014",
+    "chapterNumber": 3,
+    "chapterTitle": "Part III - Rights, Responsibilities and Protection of Victims",
+    "articleNumber": 20,
+    "articleTitle": "Right to information",
+    "text": "A victim has a right to be given, in a language or manner they understand, information necessary for realising their rights under this Act, including how to report a crime, how the investigation and prosecution process works, and what support services are available - as long as giving this information does not unreasonably delay the investigation or prosecution.",
+    "tags": ["victim rights", "right to information"]
+  },
+  {
+    "lawSource": "Procedure Guide",
+    "chapterNumber": 0,
+    "chapterTitle": "Practical procedure - reporting an assault in Kenya",
+    "articleNumber": 1,
+    "articleTitle": "How to report an assault and get a P3 form",
+    "text": "Practical steps commonly followed after a physical assault in Kenya: (1) If injured, get medical treatment first - go to the nearest hospital or health centre; a police station can also refer you if you go there first. (2) Report the assault at the nearest police station (Occurrence Book/OB entry) - do this as soon as possible; you do not need a lawyer to report a crime. (3) The police issue a P3 form (a free government form - by law it should not be charged for) which you take to a government-designated medical facility for a medical officer to examine your injuries and complete. (4) Return the completed P3 form to the police station; it becomes evidence for prosecuting the assault. (5) Keep copies of any medical reports, and note the names of witnesses if there were any. (6) Follow up with the police station on the progress of the investigation using your OB number as reference.",
+    "tags": ["assault", "reporting a crime", "P3 form", "police", "procedure"]
+  }
+]
